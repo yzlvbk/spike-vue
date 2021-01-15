@@ -13,7 +13,7 @@
       </li>
 
       <li>
-        <router-link to="/doc">github</router-link>
+        <a href="https://github.com/yzlvbk/spike-vue" target="_blank">github</a>
       </li>
 
     </ul>
