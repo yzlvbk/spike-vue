@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="193567b8-ce29-4fc1-870e-be512ee79b29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markdowm/fast.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdowm/fast.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1hOJIm18ijXLElHzvcNolCrRCXW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="ts.external.directory.path" value="E:\program\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\code\vue\z-vue-ui\src\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\code\vue\z-vue-ui\src\components" />
+      <recent name="C:\Users\code\vue\z-vue-ui\src\lib" />
+      <recent name="C:\Users\code\vue\z-vue-ui" />
+      <recent name="C:\Users\code\vue\z-vue-ui\src" />
+      <recent name="C:\Users\code\vue\z-vue-ui\src\views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="193567b8-ce29-4fc1-870e-be512ee79b29" name="Default Changelist" comment="" />
+      <created>1599876128227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599876128227</updated>
+      <workItem from="1599876129321" duration="15846000" />
+      <workItem from="1600085259733" duration="8691000" />
+      <workItem from="1600170737383" duration="6024000" />
+      <workItem from="1600874823987" duration="3275000" />
+      <workItem from="1600949160911" duration="61000" />
+      <workItem from="1601303273645" duration="945000" />
+      <workItem from="1601304230888" duration="5300000" />
+      <workItem from="1601542825277" duration="8608000" />
+      <workItem from="1601600716475" duration="4746000" />
+      <workItem from="1601607211378" duration="22149000" />
+      <workItem from="1601685947606" duration="2898000" />
+      <workItem from="1601871150038" duration="598000" />
+      <workItem from="1602161707421" duration="590000" />
+      <workItem from="1602162313868" duration="7314000" />
+      <workItem from="1602246177635" duration="8770000" />
+      <workItem from="1602390202650" duration="2079000" />
+      <workItem from="1602407667096" duration="21913000" />
+      <workItem from="1602515640765" duration="6180000" />
+      <workItem from="1602584853864" duration="17143000" />
+      <workItem from="1602676638020" duration="9689000" />
+      <workItem from="1602758497195" duration="12537000" />
+      <workItem from="1602901946625" duration="3810000" />
+      <workItem from="1602985333486" duration="3505000" />
+      <workItem from="1603081641533" duration="305000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化项目并编写官网样式">
+      <created>1601303944572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601303944572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交文件">
+      <created>1601304480522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601304480522</updated>
+    </task>
+    <task id="LOCAL-00003" summary="本地提交">
+      <created>1601304752059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601304752059</updated>
+    </task>
+    <task id="LOCAL-00004" summary="switch组件基本完成，添加active小动画">
+      <created>1601555178074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601555178074</updated>
+    </task>
+    <task id="LOCAL-00005" summary="官网再次完善">
+      <created>1601622847389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601622847389</updated>
+    </task>
+    <task id="LOCAL-00006" summary="按钮支持tab选中">
+      <created>1601647847696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601647847696</updated>
+    </task>
+    <task id="LOCAL-00007" summary="按钮支持tab选中">
+      <created>1602257609645</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602257609645</updated>
+    </task>
+    <task id="LOCAL-00008" summary="开始写Modal组件">
+      <created>1602258867894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602258867894</updated>
+    </task>
+    <task id="LOCAL-00009" summary="组件基本完成，开始规划官网页面">
+      <created>1602434133124</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602434133124</updated>
+    </task>
+    <task id="LOCAL-00010" summary="展示组件封装完成，需要添加折叠动画，参数table 组件，三天之内完成">
+      <created>1602521362731</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602521362731</updated>
+    </task>
+    <task id="LOCAL-00011" summary="展示组件出问题了，">
+      <created>1602678781952</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602678781953</updated>
+    </task>
+    <task id="LOCAL-00012" summary="基本完成，剩下两个说明页面和发布">
+      <created>1602761205982</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602761205982</updated>
+    </task>
+    <task id="LOCAL-00013" summary="添加官网链接">
+      <created>1602761358821</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602761358821</updated>
+    </task>
+    <task id="LOCAL-00014" summary="md文档页添加图片">
+      <created>1602763186857</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602763186857</updated>
+    </task>
+    <task id="LOCAL-00015" summary="md文件修改错误">
+      <created>1602763225232</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602763225232</updated>
+    </task>
+    <task id="LOCAL-00016" summary="图片路径错误">
+      <created>1602763324557</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602763324557</updated>
+    </task>
+    <task id="LOCAL-00017" summary="最后的修改，差打包发布">
+      <created>1602777151660</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602777151660</updated>
+    </task>
+    <task id="LOCAL-00018" summary="npm包发布成功，修改文档页">
+      <created>1602989282074</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602989282074</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化项目并编写官网样式" />
+    <MESSAGE value="提交文件" />
+    <MESSAGE value="本地提交" />
+    <MESSAGE value="switch组件基本完成，添加active小动画" />
+    <MESSAGE value="官网再次完善" />
+    <MESSAGE value="按钮支持tab选中" />
+    <MESSAGE value="开始写Modal组件" />
+    <MESSAGE value="组件基本完成，开始规划官网页面" />
+    <MESSAGE value="展示组件封装完成，需要添加折叠动画，参数table 组件，三天之内完成" />
+    <MESSAGE value="展示组件出问题了，" />
+    <MESSAGE value="基本完成，剩下两个说明页面和发布" />
+    <MESSAGE value="添加官网链接" />
+    <MESSAGE value="md文档页添加图片" />
+    <MESSAGE value="md文件修改错误" />
+    <MESSAGE value="图片路径错误" />
+    <MESSAGE value="最后的修改，差打包发布" />
+    <MESSAGE value="npm包发布成功，修改文档页" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm包发布成功，修改文档页" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="153" key="#Deployment" timestamp="1601304182220">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="714" y="153" key="#Deployment/0.0.2048.1152@0.0.2048.1152" timestamp="1601304182220" />
+    <state x="766" y="352" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602986237623">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="766" y="352" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1602986237623" />
+    <state x="566" y="0" key="CommitChangelistDialog2" timestamp="1602989280893">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="531" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1601647846932" />
+    <state x="566" y="0" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1602989280893" />
+    <state x="395" y="97" key="DiffContextDialog" timestamp="1601304569866">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="395" y="97" key="DiffContextDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1601304569866" />
+    <state x="553" y="275" key="MultipleFileMergeDialog" timestamp="1601304008923">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="553" y="275" key="MultipleFileMergeDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1601304008923" />
+    <state x="980" y="104" key="RollbackChangesDialog" timestamp="1601304103889">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="980" y="104" key="RollbackChangesDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1601304103889" />
+    <state x="424" y="135" key="SettingsEditor" timestamp="1599883524842">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="424" y="135" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1599883524842" />
+    <state x="626" y="0" key="VCS.ChangelistChooser" timestamp="1601304621387">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="626" y="0" key="VCS.ChangelistChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1601304621387" />
+    <state x="517" y="241" key="Vcs.Push.Dialog.v2" timestamp="1602989334801">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="517" y="241" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1602989334801" />
+    <state x="93" y="93" width="1862" height="966" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602904231967">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="87" y="87" width="1746" height="906" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601543169829" />
+    <state x="93" y="93" width="1862" height="966" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1602904231967" />
+    <state x="1026" y="145" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1601304605410">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1026" y="145" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1601304605410" />
+    <state x="803" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601304217561">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="803" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1152@0.0.2048.1152" timestamp="1601304217561" />
+    <state x="633" y="208" width="782" height="762" key="find.popup" timestamp="1602905122090">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="593" y="195" width="733" height="690" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601613226471" />
+    <state x="633" y="208" width="782" height="762" key="find.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1602905122090" />
+    <state x="603" y="117" width="840" height="1034" key="search.everywhere.popup" timestamp="1602989040096">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="603" y="117" width="840" height="1034" key="search.everywhere.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1602989040096" />
+  </component>
+</project>
