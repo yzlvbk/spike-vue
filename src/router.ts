@@ -2,6 +2,8 @@ import { createWebHashHistory, createRouter } from 'vue-router'
 import Home from './views/Home.vue'
 import Doc from './views/doc/Doc.vue'
 import Markdown from './components/Markdown.vue'
+import IntoDoc from './views/doc/sub-doc/IntoDoc.vue'
+import FastDoc from './views/doc/sub-doc/FastDoc.vue'
 import SwitchDoc from "./views/doc/sub-doc/SwitchDoc.vue"
 import ButtonDoc from "./views/doc/sub-doc/ButtonDoc.vue"
 import ModalDoc from "./views/doc/sub-doc/ModalDoc.vue"
@@ -34,8 +36,10 @@ export const router = createRouter({
         {
             path: '/doc', component: Doc, children: [
                 { path: '', redirect: '/doc/into' },
-                { path: "into", component: md("into") },
-                { path: "fast", component: md("fast") },
+                { path: "into", component: IntoDoc },
+                // { path: "into", component: md("fast") },
+                // { path: "fast", component: md("into") },
+                { path: "fast", component: FastDoc },
 
                 { path: 'switch', component: SwitchDoc },
                 { path: "button", component: ButtonDoc },

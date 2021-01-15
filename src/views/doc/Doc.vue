@@ -166,7 +166,7 @@ aside {
   > ol {
     > li {
       > a {
-        padding: 8px 22px;
+        padding: 14px 22px;
         display: block;
         color: #444;
         font-size: 14px;

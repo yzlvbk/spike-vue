@@ -3,7 +3,7 @@
     <div class="logo">
       <router-link to="/">
 
-        <img style="width:30px; height: 30px" src="../../logo.svg" alt="">
+        <img style="width:30px; height: 30px" src="../logo.png" alt="">
       </router-link>
     </div>
     <ul class="menu">
